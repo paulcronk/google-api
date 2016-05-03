@@ -12,8 +12,8 @@ caveats:
    (2) there is no indication of search volumes; simply relative volumes of searches
 """
 # connect to Google
-google_username = "helix.tango@gmail.com"
-google_password = "wetPantana1"
+google_username = "******"
+google_password = "*****"
 path = ""
 connector = pyGTrends(google_username, google_password)
 
